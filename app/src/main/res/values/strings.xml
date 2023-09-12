@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Motor Store</string>
+    <string name="detail_mesin">Deskripsi</string>
+    <string name="profile">Profile</string>
+    <string name="name">Muslim Hakim Muhammad</string>
+    <string name="email">muslimhakim002@gmail.com</string>
+    <string name="hello_muslim">Hello, Muslim</string>
+    <string name="motorstore">MotorStore</string>
+    <string name="notifikasi">Notifikasi</string>
+    <string name="pengaturan">Pengaturan</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="detail">Detail</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="back_button">Back Button</string>
+    <string name="image_profile">Image Profile</string>
+</resources>
